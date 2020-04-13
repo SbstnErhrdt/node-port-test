@@ -1,0 +1,25 @@
+{
+  "name": "node-port-test",
+  "version": "1.0.0",
+  "description": "a small docker container which opens ports to test them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SbstnErhrdt/node-port-test.git"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "test",
+    "port"
+  ],
+  "author": "Sebastian Erhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SbstnErhrdt/node-port-test/issues"
+  },
+  "homepage": "https://github.com/SbstnErhrdt/node-port-test#readme"
+}
