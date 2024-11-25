@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:10
+FROM node:current-slim
 
 # Create app directory
 WORKDIR /usr/src/app
