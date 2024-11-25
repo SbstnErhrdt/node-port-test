@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/SbstnErhrdt/node-port-test/issues"
   },
-  "homepage": "https://github.com/SbstnErhrdt/node-port-test#readme"
+  "homepage": "https://github.com/SbstnErhrdt/node-port-test#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
 }
